@@ -1,48 +1,51 @@
-# 👋 Hi, I'm Dharanish K
+# Hi 👋 I'm Dharanish K
 
-🎓 B.Tech IT Student (2023–2027)  
-💻 Frontend Developer | React Developer  
-📍 Tamil Nadu, India  
+🎓 B.Tech Information Technology Student  
+💻 Frontend Developer  
+🚀 Aspiring Full Stack Developer  
 
 ---
 
 ## 🚀 About Me
 
-Frontend Developer with strong skills in **HTML, CSS, JavaScript, React, and Next.js**.  
-Experienced in building responsive and user-friendly applications using **Tailwind CSS and MUI**.
-
-I focus on:
-- Clean and maintainable code
-- Responsive design
-- Accessibility
-- Continuous learning
+- 💻 Passionate about Frontend Development  
+- 🎨 Strong in React, Tailwind CSS & Modern UI Design  
+- 🔗 Experienced in API Integration & Backend Basics  
+- 📚 Solved 200+ LeetCode Problems  
+- 🌱 Currently improving Communication & Problem Solving  
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠 Skills
 
-### 💻 Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Next.js
-- Tailwind CSS
-- MUI
+### 👨‍💻 Programming
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/NODEJS-green?style=for-the-badge&logo=node.js)
 
-### ⚙️ Backend
-- Node.js
-- Express.js
+---
+
+### ⚛️ Frameworks & Libraries
+![React](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NEXTJS-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui)
+
+---
 
 ### 🗄️ Database
-- MongoDB
-- PostgreSQL
+![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-blue?style=for-the-badge&logo=postgresql)
+
+---
 
 ### 🔧 Tools
-- Git & GitHub
-- Postman
-- Vercel
-- Figma
+![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/FIGMA-purple?style=for-the-badge&logo=figma)
 
 ---
 
@@ -51,51 +54,70 @@ I focus on:
 ### 🏢 Full Stack Developer Intern  
 **Crayond Digital Pvt. Ltd (Sep 2024 – Apr 2025)**  
 
-- Built responsive UI components using React and Tailwind CSS  
-- Worked on real product features  
-- Improved UI usability and accessibility  
-- Experience with modern frontend workflows  
+- Built responsive UI components using React & Tailwind CSS  
+- Worked on real-time product features  
+- Improved usability and accessibility  
+- Followed professional frontend workflows  
 
 ---
 
-## 📂 Projects
+## ⭐ Featured Projects
 
 ### 💰 Finance Tracker Application
-Tech: React, Node.js, Express, MongoDB  
-- Full-stack app for tracking income and expenses  
-- Authentication and CRUD operations  
-- Interactive dashboard  
+
+A full-stack application to track income & expenses.
+
+**Tech Stack:**
+- React.js  
+- Node.js  
+- Express.js  
+- MongoDB  
+
+**Features:**
+- User Authentication  
+- CRUD Operations  
+- Interactive Financial Dashboard  
 
 ---
 
 ### 📊 Travella Admin Dashboard
-Tech: React, Tailwind, MUI  
-- Developed admin dashboard UI  
-- Content and data management system  
-- Improved workflow usability  
+
+Admin panel for content & data management.
+
+**Tech Stack:**
+- React  
+- Tailwind CSS  
+- MUI  
+
+**Features:**
+- Dashboard UI  
+- Data Management  
+- Improved Workflow System  
 
 ---
 
 ### 🍔 Burger Web App
-Tech: React, Tailwind  
-- Static responsive menu website  
-- Clean UI and layout  
+
+- Responsive static menu website  
+- Clean UI & Layout  
+- Built using React & Tailwind  
 
 ---
 
-## 🏆 Achievements
+## 📊 GitHub Stats
 
-- Solved **200+ LeetCode problems**
-- WebStart Hackathon — Certificate of Appreciation (IIT Madras E-Summit 2025)
+![Dharanish GitHub stats](https://github-readme-stats.vercel.app/api?username=DHARANISHKBIT&show_icons=true&theme=radical)
 
----
-
-## 📫 Connect With Me
-
-📧 Email: dharanish.k282@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/dharanish-k-27784a2a1/  
-💻 GitHub: https://github.com/DHARANISHKBIT  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHARANISHKBIT&layout=compact&theme=radical)
 
 ---
 
-⭐ Always learning. Always building.
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dharanish-k-27784a2a1/)
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/DHARANISHKBIT)
+[![Email](https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail)](mailto:dharanish.k282@gmail.com)
+
+---
+
+⭐ From Dharanish K
